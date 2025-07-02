@@ -1,1 +1,1 @@
-# decentralized-donation-tracker
+# Decentralized-Donation-Tracker
