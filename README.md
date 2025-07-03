@@ -1,6 +1,6 @@
 # Decentralized-Donation-Tracker
 
-This project is a **Decentralized Donation Tracker** written in Solidity. It allows users to send donations directly to a smart contract and transparently track how much they or others have donated — without relying on any centralized middleman.
+This project is a **Decentralized Donation Tracker** written in Solidity. It allows users to send donations directly to a smart contract and transparently track how much they or others have donated, without relying on any centralized middleman.
 
 The project is structured in **three progressive levels**:
 
